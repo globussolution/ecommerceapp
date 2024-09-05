@@ -28,7 +28,7 @@ function Header() {
           <Link to="/useState" className="mr-5 hover:text-gray-900">
             Use State
           </Link>
-          <Link to="/useEffect" className="mr-5 hover:text-gray-900">
+          <Link to="/products" className="mr-5 hover:text-gray-900">
             Products
           </Link>
           <Link to="/about" className="mr-5 hover:text-gray-900">
